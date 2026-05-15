@@ -156,3 +156,8 @@ elif menu == "➖ Withdraw":
             st.error("❌ Account Not Found!")
 
 st.markdown("---")
+st.markdown(
+    "<p style='text-align:center; color:gray;'>Built By Zain Ali Khan With Streamlit</p>",
+    unsafe_allow_html=True
+)
+
